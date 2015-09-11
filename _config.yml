@@ -5,9 +5,9 @@ email: huangrui27@icloud.com
 description: "Initial release"
 baseurl: ""
 url: "http://hrlty.github.io/"
-twitter_username: SBootstrap
+twitter_username: ShrekTheWizard
 github_username:  hrlty
-facebook_username:  IronSummitMedia
+facebook_username:  ruihuang988
 
 # Build settings
 markdown: kramdown
