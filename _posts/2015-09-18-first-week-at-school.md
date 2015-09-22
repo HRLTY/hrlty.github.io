@@ -70,6 +70,7 @@ through 1/5 of their deserved period.
 2. half an hour for listening to radio.
 3. one  hour for English material reading.
 4. On sunday, review words, sentences learned during that week.
+5. read at least 5 thesis weekly.
 
 > Weekdays are hardworking time, Weekends are reserved for hobbits.
 
