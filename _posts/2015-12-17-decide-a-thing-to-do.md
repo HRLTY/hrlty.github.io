@@ -33,7 +33,7 @@ I totally agree that everyone should have some basic programming common sense.
 
 * ## The last thing… MOVE! DON'T STOP!
   
-  Every now and then when I have spare time (sometimes even when I don't), I start to do some random things that's totally irrelevant or unimportant. That has become my way of avoiding pressure. How ironic, it's the same thing that throw me into great pressure once deadlines is approaching. 
+  Every now and then when I have spare time (sometimes even when I don't), I start to do some random things that's totally irrelevant or unimportant. That has become my way of avoiding pressure. How ironic, it's the same thing that throw me into great pressure once deadlines are approaching. 
   
   What I need is a steady and progressive way of learning. A sustainable development style of life.  It is a kind of wisdom, I must admit.
   
